@@ -56,7 +56,7 @@ Ex
 - `./run_day.sh 02-03 week1`
 - `./run_day.sh 02-04 week1`
 - `./run_day.sh 02-05 week1`
-...
+- ...
 - `./run_day.sh 02-09 week1`
 This will add each date into a collection called week1. CSVs can be generated and this can be analyzed using the following 2 commands respectively:
 - `./expanded_csv_generator.py week1`
