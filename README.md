@@ -46,11 +46,13 @@ To run the code, place the folder of a Month's worth of tweets into the same fol
 ##### 1 day at a time
 To run the code 1 day at a time, simply copy and paste the following command into your terminal:
 - `./run_day.sh mm-dd` 
+
 where mm-dd is the month and day of the date in that format (for example 02-21 is Feb 21st)
 
 ##### Add to larger collection
 If you want to add the data to a collection larger than 1 day (for example, if you wanted to analyze a whole week or a whole month) run the following command in terminal:
 - `./run_day.sh mm-dd <coll_name>`
+
 with the same date format as above, and replacing <coll_name> with the name of the collection you want to use to hold several dates. You will need to run this command with multiple dates.
 Ex
 - `./run_day.sh 02-03 week1`
