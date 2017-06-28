@@ -9,12 +9,12 @@ required dependencies.
 
 ### Skip this section if you are already familiar with navigating a file system within terminal
 
-- To open the terminal on your Mac, press <kbd>Command</kbd>+<kbd>space</kbd> and type terminal into the search box and press enter. This will open a terminal window in the directory of the current user. 
+- To open the terminal on your Mac, press <kbd>Command</kbd>+<kbd>space</kbd> and type terminal into the search box and press <kdbd>enter</kbd>. This will open a terminal window in the directory of the current user. 
 - To get a list of all files and folders in the current directory, type `ls` and press <kbd>enter</kbd>
 - To navigate to a folder within your current directory (current folder), type `cd <Directory Name>` and replace <Directory Name> with the name of the directory you want to navigate to. For example, `cd Documents` will change the directory to Documents, provided there is a directory named Documents within the current directory. You can use `cd ..` to navigate to the directory one above the current directory. So if you used `cd Documents` to navigate to the Documents directory, you can use `cd ..` to return to the directory you were just in.
 
 ## Installation
-*Please note that when I use the phrase "Copy and paste into your terminal", that also means to press enter after copy and pasting to execute the command*
+*Please note that when I use the phrase "Copy and paste into your terminal", that also means to press <kbd>enter</kbd> after copy and pasting to execute the command*
 ### MongoDB
 
 Copy and paste the following command into your terminal to install homebrew to assist with the installation of MongoDB. MongoDB is going to be the Database we are using to store the tweets we are analyzing.
