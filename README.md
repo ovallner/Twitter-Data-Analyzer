@@ -30,7 +30,7 @@ Copy and paste the following commands to install MongoDB
 Copy and paste the following commands into your terminal to install pip, wordcloud, and Pymongo. Pymongo is the Python Library used to connect the code with MongoDB and wordcloud is used to generate a wordcloud from the tweets
 - `sudo easy_install pip`
 - `sudo pip install pymongo`
-- `sudo pip install wordcloud`
+- `sudo pip install wordcloud --user`
 
 ## Using the Data Analyzer
 ### Downloading the Code
